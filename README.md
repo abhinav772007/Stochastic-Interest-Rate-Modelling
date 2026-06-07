@@ -16,9 +16,9 @@ Where:
 
 ## Project Structure
 .
-├── model.ipynb
-├── train_data.csv
-├── test_data.csv
+├── model.ipynb<br>
+├── train_data.csv<br>
+├── test_data.csv<br>
 ├── README.md
 
 
